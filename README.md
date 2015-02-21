@@ -16,6 +16,7 @@ To open and execute the source code in Processing, you have to download and inst
 
 - [Download Processing](http://processing.org/download/)
 - [Download ControlP5 GUI library for processing](http://www.sojamo.de/libraries/controlP5/#installation)
+- [Download WebSocketP5 library for processing](http://muthesius.github.io/WebSocketP5/)
  
 License
 -------
